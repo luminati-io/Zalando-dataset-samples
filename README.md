@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Zalando products</h2>
 
-![Zalando dataset header](https://github.com/luminati-io/Zalando-dataset-samples/blob/main/Zalando-datasets.png)
+<a href="https://brightdata.com/products/datasets/zalando">
+   <img src="https://github.com/luminati-io/Zalando-dataset-samples/blob/main/zalando-datasets.png" alt="zalando datasets" />
+</a>
 
 A Zalando dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -33,13 +35,17 @@ dataset which includes more than <b>9.7M records</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, zalando S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Zalando dataset](https://brightdata.com/products/datasets/zalando)</b>.
+
+<a href="https://brightdata.com/products/datasets/zalando">
+   <img src="https://github.com/luminati-io/Zalando-dataset-samples/blob/main/dataset-promotions.png" alt="zalando datasets" />
+</a>
 
 <h2>What are the Zalando datasets use cases?</h2>
 
